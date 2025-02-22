@@ -1,8 +1,7 @@
 ##  
 <div id="header" align="center">
-    <h1>Hi there, I'm Anna </h1>
+    <h3>Hi there, I'm Anna </h1>
     <h3>Junior Data Analyst</h3>
-</div>
 <div id="socials" align="center">
     <a href="www.linkedin.com/in/анна-гладышева-549427199">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
