@@ -16,7 +16,7 @@
 </div>
 About me
 -  I’m currently learning Python, SQL
--  I want to work with Big Data because it's exciting 
+-  I want to work with Data because it's exciting 
 -  I speak English fluently
 -  I teach English, and I love teaching
 -  I regularly watch movies and love cinema
