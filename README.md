@@ -13,8 +13,7 @@
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
   </a>
 </div>
-
-### About me
+About me
 -  I’m currently learning Python, SQL
 -  I want to work with Big Data because it's exciting 
 -  I speak English fluently
